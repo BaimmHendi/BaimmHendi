@@ -3,8 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer
 -------------
-
-# 💫 About Me:
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
